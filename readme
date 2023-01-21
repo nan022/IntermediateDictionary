@@ -12,3 +12,6 @@ Akan error pada saat menambahkan function save_word kedalam detail.html
 lupa password pymongo -> database access edit saja
 
 tujuan dari 9-2 untuk mengambil data
+
+
+jika server selection error maka di network access harus di ganti menjadi allow access
