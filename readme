@@ -1,0 +1,14 @@
+Dictionary:
+
+Siapkan folder structure flask
+- static
+- templates
+- venv = python -m venv namafolder
+
+
+
+Akan error pada saat menambahkan function save_word kedalam detail.html
+
+lupa password pymongo -> database access edit saja
+
+tujuan dari 9-2 untuk mengambil data
